@@ -81,3 +81,4 @@ npm run dev
 - Backend:
   - Python
   - Flask
+  - SQLite
